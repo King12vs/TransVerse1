@@ -1,0 +1,70 @@
+/* *{
+    border: 1px black solid; 
+} */
+
+body{
+    background: linear-gradient(45deg, #ffdb00 0%, #ffb000 100%);
+    height:  100vh;
+    width:  100%;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    justify-content:space-evenly;
+    font-family: cursive;
+    overflow: hidden;
+}
+
+#div1{
+    width: 60%;
+    height: 100vh;
+    position: relative;
+    /* border: 1px black solid;  */
+}
+
+#div2{
+    /* background-color: rgb(255, 200, 0); */
+    width:  40%;
+}
+#btns{
+    height: 50px;
+    width: 200px;
+    background-color: black;
+    color: rgb(255,208,0);
+    font-family: cursive;
+}
+
+#divheader{
+    margin: 0;
+    top: 0;
+    padding: 0;
+    font-size: 20px;
+    /* border: 1px black solid;  */
+    margin-top: 200px;
+}
+
+.mainbtns{
+    justify-content: space-evenly;
+    margin: 0;
+    display: flex;
+    /* border: 1px black solid;  */
+    width: 100%;
+}
+#btns{
+    margin: 50px;
+    border-radius:25px;
+    font-size: 20px;
+    text-align: center;
+    padding-top:20px;
+    cursor: pointer;
+
+}
+
+#edith{
+    font-size: 100px;
+
+}
+
+
+#a{
+    text-decoration:none;
+}

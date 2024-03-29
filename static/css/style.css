@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 208, 0);
+    background-size: cover;
+}
+
+#text1{
+    font-family: cursive;
+    font-size: 70px;
+}
+
+#text2{
+    font-family: cursive;
+    font-size: 30px;
+    
+}
+
+#bg2{
+    margin-left: 450px;
+    width: 30%;
+    height: 250px;
+    
+}
+
+#continue_btn{
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(255, 208, 0);
+    cursor: pointer;
+    border-radius: 20px; 
+    background-color: rgb(0, 0, 0);
+}
